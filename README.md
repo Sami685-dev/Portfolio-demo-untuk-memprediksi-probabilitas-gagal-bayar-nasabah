@@ -1,0 +1,1 @@
+# Portfolio-demo-untuk-memprediksi-probabilitas-gagal-bayar-nasabah
